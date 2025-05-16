@@ -17,9 +17,9 @@ This program simulates the evolution of a population of rabbits and foxes in Jav
 In the simulation, the foxes act first, and then the rabbits.
 Rabbits are represented as "o".
 Foxes are represented as "x".
-Empty cells are represented as "*".
+Empty cells are represented as "_".
 
 ## 🚀How to Run
 Compile the Java files using: javac *.java
 
-Run the simulation using: java PopulationSimulator
+Run the simulation using: java Simulation
