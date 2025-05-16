@@ -20,6 +20,6 @@ Foxes are represented as "x".
 Empty cells are represented as "*".
 
 ## 🚀How to Run
-Compile the Java files using: javac PopulationSimulator.java
+Compile the Java files using: javac *.java
 
 Run the simulation using: java PopulationSimulator
