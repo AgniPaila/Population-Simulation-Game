@@ -23,3 +23,6 @@ Empty cells are represented as "_".
 Compile the Java files using: javac *.java
 
 Run the simulation using: java Simulation
+
+## 📘 Course Info
+Course: Τεχνικές Αντικειμενοστρεφούς Προγραμματισμού (Object Oriented Programming Techniques)
